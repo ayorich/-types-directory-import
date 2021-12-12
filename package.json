@@ -1,11 +1,10 @@
 {
   "name": "@types/directory-import",
   "version": "1.0.0",
-  "description": "Type definition for directory-import",
+  "description": "TypeScript definitions for directory-import",
   "main": "",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
+  "homepage": "https://github.com/ayorich/-types-directory-import.git",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -14,9 +13,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "<git_repo_link>"
+    "url": "https://github.com/ayorich/-types-directory-import.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
+    "@ayorich:registry": "https://npm.pkg.github.com"
+  },
+  "contributors": [
+    {
+      "name": "Ayodele Kayode",
+      "url": "https://github.com/ayorich"
+    },
+    {
+      "name": "Amechi Chisom",
+      "url": "https://github.com/"
+    }
+  ],
+  "types": "index.d.ts"
 }
