@@ -1,0 +1,22 @@
+{
+  "name": "@types/directory-import",
+  "version": "1.0.0",
+  "description": "Type definition for directory-import",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "<cli_command_name>": "./<name_of_the_index_script>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<git_repo_link>"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
