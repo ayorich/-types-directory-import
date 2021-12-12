@@ -14,4 +14,4 @@ This package contains type definitions for directory-import (https://github.com/
 
 # Credits
 
-These definitions were written by [Ayodele Kayode](https://github.com/ayorich)
+These definitions were written by [Ayodele Kayode](https://github.com/ayorich) and [Chisom Amechi](https://github.com/)
